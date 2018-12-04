@@ -9,7 +9,7 @@ git:
   quiet: true
 
 before_script:
-- wget https://chromedriver.storage.googleapis.com/2.44/chromedriver_linux64.zip -y
+- wget https://chromedriver.storage.googleapis.com/2.44/chromedriver_linux64.zip
 - unzip chromedriver_linux64.zip -y
 
 
